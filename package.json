@@ -1,0 +1,23 @@
+{
+  "name": "mosh-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript tutorial by Programming with Mosh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YosepRA/mosh-typescript.git"
+  },
+  "keywords": [],
+  "author": "Yosep Ryan Agusta <yosep.ryan.yra@gmail.com> (https://yosepra.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YosepRA/mosh-typescript/issues"
+  },
+  "homepage": "https://github.com/YosepRA/mosh-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
